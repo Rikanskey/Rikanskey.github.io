@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Магистратура «Веб-технологии» I курс 2022
 
 You can use the [editor on GitHub](https://github.com/Rikanskey/VolobuevWebLabs.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
